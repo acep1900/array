@@ -1,0 +1,8 @@
+/*Add two elements to the chores array using .push().*/
+
+const chores = ['wash dishes', 'do laundry', 'take out trash'];
+chores.push('cook','mup');
+
+/*Use console.log to 
+print your chores array to make sure your items were added*/
+console.log(chores)
